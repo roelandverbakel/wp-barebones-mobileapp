@@ -5,7 +5,7 @@
     <description>Stichting Toegankelijke Horeca helpt om horeca in Nederland toegankelijk te maken voor iedereen</description>
     <author email="info@stichtingtoegankelijkehoreca.nl" href="http://www.stichtingtoegankelijkehoreca.nl">AGOTH Webmaster</author>
 
-    <preference name="phonegap-version" value="3.3.0" />
+    <preference name="phonegap-version" value="cli-6.3.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
     
     <preference name="orientation"                value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
