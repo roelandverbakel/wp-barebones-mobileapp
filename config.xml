@@ -1,14 +1,21 @@
-<?xml version='1.0' encoding='utf-8'?>
-<widget id="nl.stichtingtoegankelijkehoreca.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    
-    <name>HorecaAccess</name>
-    <description>Stichting Toegankelijke Horeca helpt om horeca in Nederland toegankelijk te maken voor iedereen</description>
-    <author email="info@stichtingtoegankelijkehoreca.nl" href="http://www.stichtingtoegankelijkehoreca.nl">AGOTH Webmaster</author>
+<?xml version="1.0" encoding="UTF-8" ?>
 
-    <preference name="phonegap-version" value="cli-6.3.0" />
-    <feature name="http://api.phonegap.com/1.0/device" />
+<widget xmlns		="http://www.w3.org/ns/widgets"
+	xmlns:gap	="http://phonegap.com/ns/1.0"
+	id		="nl.stichtingtoegankelijkehoreca.app"
+	versionCode 	="1"
+	version		="1.0.0"  >
     
-    <preference name="orientation"                value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
+    
+	<name>HorecaAccess</name>
+    
+	<description>Stichting Toegankelijke Horeca helpt om horeca in Nederland toegankelijk te maken voor iedereen</description>
+    
+	<author href = "http://www.stichtingtoegankelijkehoreca.nl" email = "info@stichtingtoegankelijkehoreca.nl">
+		Roeland Verbakel
+	</author>
+
+	<preference name="orientation" value="portrait" />  
 
 	<icon src="icon.png" />
 	
