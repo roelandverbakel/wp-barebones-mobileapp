@@ -41,6 +41,6 @@
 
     <content src="http://www.stichtingtoegankelijkehoreca.nl" subdomains="true"></content>
 	<access origin="*"></access>
-    <allow-navigation href="http:/stichtingtoegankelijkehoreca.nl/*" />
+    <allow-navigation href="*" />
 	
 </widget>
