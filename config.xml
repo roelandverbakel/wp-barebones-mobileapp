@@ -18,28 +18,6 @@
 
 	<icon src="icon.png" />
 	
-    <icon src="res/icons/ios/Icon-App-57x57@1x.png" gap:platform="ios" width="57" height="57" />
-    <icon src="res/icons/ios/Icon-App-57x57@2x.png" gap:platform="ios" width="114" height="114" />    
-    <icon src="res/icons/ios/Icon-App-72x72@1x.png" gap:platform="ios" width="72" height="72" />
-    <icon src="res/icons/ios/Icon-App-72x72@2x.png" gap:platform="ios" width="144" height="144" />
-
-    <icon src="res/icons/android/drawable-ldpi/ic_launcher.png" gap:platform="android" gap:density="ldpi" />
-    <icon src="res/icons/android/drawable-mdpi/ic_launcher.png" gap:platform="android" gap:density="mdpi" />
-    <icon src="res/icons/android/drawable-hdpi/ic_launcher.png" gap:platform="android" gap:density="hdpi" />
-    <icon src="res/icons/android/drawable-xdpi/ic_launcher.png" gap:platform="android" gap:density="xhdpi" />
-	
-    <splash src="splash.png" />
-    
-    <splash src="res/screen/android/drawable-ldpi/playstore-icon.png"  gap:platform="android" gap:density="ldpi" />
-    <splash src="res/screen/android/drawable-mdpi/playstore-icon.png"  gap:platform="android" gap:density="mdpi" />
-    <splash src="res/screen/android/drawable-hdpi/playstore-icon.png"  gap:platform="android" gap:density="hdpi" />
-    <splash src="res/screen/android/drawable-xdpi/playstore-icon.png" gap:platform="android" gap:density="xhdpi" />
-    
-    <splash src="res/screen/ios/Default.png" gap:platform="ios" width="320" height="480" />
-    <splash src="res/screen/ios/Default@2x.png" gap:platform="ios" width="680" height="960" />
-    <splash src="res/screen/ios/Deafult-568h-2x.png" gap:platform="ios" width="640" height="1136" />
-
-    <plugin name="cordova-plugin-inappbrowser" source="npm" />
     <content src="http://www.stichtingtoegankelijkehoreca.nl" subdomains="true"></content>
 	<access origin="*"></access>
     <allow-navigation href="*" />
