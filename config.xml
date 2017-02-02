@@ -28,7 +28,7 @@
     <icon src="res/icons/android/drawable-hdpi/ic_launcher.png" gap:platform="android" gap:density="hdpi" />
     <icon src="res/icons/android/drawable-xdpi/ic_launcher.png" gap:platform="android" gap:density="xhdpi" />
 	
-    <gap:splash src="splash-new.png" />
+    <gap:splash src="splash.png" />
     
     <gap:splash src="res/screen/android/drawable-ldpi/playstore-icon.png"  gap:platform="android" gap:density="ldpi" />
     <gap:splash src="res/screen/android/drawable-mdpi/playstore-icon.png"  gap:platform="android" gap:density="mdpi" />
