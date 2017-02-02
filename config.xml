@@ -42,5 +42,6 @@
     <content src="http://www.stichtingtoegankelijkehoreca.nl" subdomains="true"></content>
 	<access origin="*"></access>
     <allow-navigation href="*" />
+    <plugin name="cordova-plugin-inappbrowser" source="npm" />
 	
 </widget>
