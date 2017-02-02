@@ -6,7 +6,7 @@
 	versionCode 	="1"
 	version		="1.0.0"  >
     
-    <preference name="phonegap-version" value="3.3.0" />
+    <preference name="phonegap-version" value="3.7.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
 	
 	<name>HorecaAccess</name>
